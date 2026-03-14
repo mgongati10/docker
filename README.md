@@ -1,2 +1,2 @@
 # docker
-this is for the docker kearing
+this is for the docker learing
